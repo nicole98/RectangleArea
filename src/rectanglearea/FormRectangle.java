@@ -148,6 +148,7 @@ public class FormRectangle extends javax.swing.JFrame {
         //Calculates the area
         area = width*length;
         
+        //Displays a message in the output label
         labelOutput.setText("The area of the rectangle is " + area + "cm squared");
     }//GEN-LAST:event_buttonCalculateActionPerformed
 
